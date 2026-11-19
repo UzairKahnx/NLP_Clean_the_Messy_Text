@@ -29,6 +29,14 @@ Upload `NLP_Clean_the_Messy_Text.ipynb` to [Google Colab](https://colab.research
 and choose **Runtime → Run all**. Outputs are already embedded, so it can also be viewed
 directly on GitHub without running anything.
 
+## Deploy to Streamlit Community Cloud
+
+One-click deploy (sign in with GitHub, then click **Deploy**):
+
+https://share.streamlit.io/deploy?repository=UzairKahnx/NLP_Clean_the_Messy_Text&branch=master&mainFile=app.py
+
+Leave the main file as `app.py`. The app installs `requirements.txt` automatically and downloads the small NLTK datasets on first start.
+
 ## Notes on the implementation
 
 - Negation words (`not`, `no`, `nor`, `never`, `none`) are protected during stopword removal,
