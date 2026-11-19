@@ -3,6 +3,12 @@
 PSEB AI Bootcamp lab: understand, check, and implement the four steps of text cleaning
 (normalize → tokenize → remove stopwords → stem/lemmatize).
 
+## 🔴 Live demo
+
+**https://uzairkahnx-nlp-clean-the-messy-text-app-pzeuzs.streamlit.app/**
+
+The interactive Streamlit app is hosted on Streamlit Community Cloud — open the link, no installation needed.
+
 ## Files
 
 | File | What it is |
